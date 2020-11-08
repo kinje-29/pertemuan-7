@@ -1,9 +1,10 @@
 # peraktikum 2
 
 ## tutorial
-            PERTEMUAN 7 LINK
             
-#LATIHAN 1#
+  ## PERTEMUAN 7 LINK
+            
+**LATIHAN 1**
 1.	Masukan data untuk di inputkan
 2.	Gunakan kode for untuk  perulangan
 3.	Dan range unuk mengembalikan deret integer berurut pada range yang di tentukan dari star sampai stop
@@ -11,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/72779594/98472675-339e1880-2227-11eb-95ff-25be333d6664.png)
 
 
-#LATIHAN 2#
+**LATIHAN 2**
 
 1.	Gunakan import untuk memanggil statement
 2.	Int di gunakan untuk mengkonversi bilangan maupun string menjadi bilangan bulat
@@ -28,7 +29,7 @@
 
 
 
-            PRAKTIKUM 2.1
+  **PRAKTIKUM 2.1**
             
 
 1.	Masukan input untuk menambahkan data seperti gambar berikut .
@@ -48,7 +49,7 @@
  ![image](https://user-images.githubusercontent.com/72779594/98473915-c8087b00-2227-11eb-8962-7deb98c73bd2.png)
 
  
-            PRAKTIKUM 2.2
+   **PRAKTIKUM 2.2**
             
               
 1.	Inputkan data yang ingin di tampilkan
@@ -57,7 +58,7 @@
 
  ![image](https://user-images.githubusercontent.com/72779594/98474113-d8205a80-2227-11eb-80f5-a477e3c69b18.png)
 
-            PRAKTIKUM 2.3
+   **PRAKTIKUM 2.3**
             
             
 1.	Gunakan int untuk mencari integer 
@@ -68,7 +69,7 @@
  ![image](https://user-images.githubusercontent.com/72779594/98474512-f423fc00-2227-11eb-8c34-3015d1000ff8.png)
 
  
-            PRAKTIKUM 3.1
+   **PRAKTIKUM 3.1**
             
             
 1.	Gunakan import untuk memanggil statement 
@@ -78,7 +79,7 @@
  ![image](https://user-images.githubusercontent.com/72779594/98474724-030aae80-2228-11eb-94f5-4d0361111584.png)
 
  
-            PRAKTIKUM 3.2
+   **PRAKTIKUM 3.2**
             
             
 1.	Gunakan max untuk untuk mengembalikan element terbesar dari iterable
@@ -89,7 +90,7 @@
 
 
  
-            PRAKTIKUM 3.3
+   **PRAKTIKUM 3.3**
             
 
 1.	Gunakan for sebagai perilangan 
